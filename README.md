@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Raghad</h1>
 <h3 align="center">A passionate frontend developer from Saudi Arabia</h3>
 
--⚡ My website "#"
+- ⚡ My website "#"
 
 - 🔭 I am currently studying on **Umm Al-Qura University, in Information Systems Software Engineering**
 
