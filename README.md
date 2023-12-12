@@ -4,7 +4,7 @@
   
 
 
-- ⚡ My website "http://127.0.0.1:5500/intro.html"
+- ⚡ My website http://127.0.0.1:5500/intro.html
 
 - 🔭 I am currently studying on **Umm Al-Qura University,
  in Information Systems Software Engineering**
