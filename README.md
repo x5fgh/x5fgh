@@ -2,6 +2,15 @@
 <h1 align="center">Hi 👋, I'm Raghad</h1>
 <h3 align="center">A passionate frontend developer from Saudi Arabia</h3>
 
+-⚡ My website "#"
+
+- 🔭 I am currently studying on **Umm Al-Qura University, in Information Systems Software Engineering**
+
+- 🌱 I’m currently learning **Flutter**
+
+- 📫 How to reach me **raghad43uqu@gmail.com**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/uqucis" target="blank">
