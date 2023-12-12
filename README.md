@@ -1,14 +1,18 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Raghad</h1>
 <h3 align="center">A passionate frontend developer from Saudi Arabia</h3>
+  
+
 
 - ⚡ My website "http://127.0.0.1:5500/intro.html"
 
-- 🔭 I am currently studying on **Umm Al-Qura University, in Information Systems Software Engineering**
+- 🔭 I am currently studying on **Umm Al-Qura University,
+ in Information Systems Software Engineering**
 
 - 🌱 I’m currently learning **Flutter**
-
+   <img src="https://github.com/x5fgh/x5fgh/assets/150478089/9fbca304-3c26-410b-8c50-aaa5ef0458df " height="30" width="40" >
 - 📫 How to reach me **raghad43uqu@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3>
